@@ -69,8 +69,8 @@
     "message": "Same Idempotency-Key used with different parameters"
   },
   "delegate_payment_error_rate_limit": {
-    "type": "rate_limit_exceeded",
-    "code": "too_many_requests",
+    "type": "invalid_request",
+    "code": "rate_limit_exceeded",
     "message": "Too many requests, please retry later"
   }
 }
