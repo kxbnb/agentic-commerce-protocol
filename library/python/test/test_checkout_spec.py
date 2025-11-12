@@ -61,7 +61,6 @@ async def test_checkout_session_complete():
         )
     )
     status, data, _ = await client.complete_session(session_id=session_id, payload=cartCompleteRequest.model_dump(), idem_key=str(uuid.uuid4()))
-    data["id"] = session_id
     assert status == 200
     CartCompleteResponse.model_validate(data)
 

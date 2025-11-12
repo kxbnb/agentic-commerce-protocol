@@ -14,7 +14,7 @@
 ### Changed
 
 - **Buyer fields**: Replaced field `first_name` and field `last_name` with `name` in `Buyer` schema.
-- **Buyer fields**: Added field `merchant_id` in `PaymentProvider` schema.
+- **PaymentProvider fields**: Added field `merchant_id` in `PaymentProvider` schema.
 - **Address fields**: Added field `phone_number` in `Address` schema.
 - **Examples**:
   - Added missing "Express" fulfillment option (`fulfillment_option_456`) to `cancel_checkout_session_response` in `examples/examples.agentic_checkout.json` for consistency with other responses.
