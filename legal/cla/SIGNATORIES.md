@@ -8,7 +8,7 @@ Last updated: 2025-12-16
 
 | Corporation Name | Date Signed | Point of Contact | Authorized GitHub Users | CLA Issue |
 |------------------|-------------|------------------|-------------------------|-----------|
-| Stripe, Inc. | 2025-11-21 | prasad-stripe | prasad-stripe,bharat-stripe,stevekaliski-stripe,nvp-strip,elorakelkel-stripe,mfix-stripe | NA |
+| Stripe, Inc. | 2025-11-21 | prasad-stripe | prasad-stripe,bharath-stripe,stevekaliski-stripe,nvp-stripe,elorakelkel-stripe,mfix-stripe | NA |
 | OpenAI LLC | 2025-11-21 | aravindrao-oai | aravindrao-oai,riley-oai,bhavinmodi-oai | NA |
 
 ## Individual CLA Signatories
