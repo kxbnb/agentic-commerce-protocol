@@ -19,7 +19,7 @@ Learn more at [agenticcommerce.dev](https://agenticcommerce.dev).
 
 ## 📦 Repo Structure
 
-​```plaintext
+```plaintext
 <repo-root>/
 ├── rfcs/
 │   └── rfc.*.md
@@ -55,8 +55,9 @@ Learn more at [agenticcommerce.dev](https://agenticcommerce.dev).
 ├── CODE_OF_CONDUCT.md
 ├── LICENSE
 └── README.md
-​```
 
+```
+​
 ---
 
 ## 🔗 Quick Links
