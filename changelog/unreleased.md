@@ -45,3 +45,4 @@ If any implementation was incorrectly sending/receiving these values as quoted s
 
 - Added error response examples for invalid item ID, out-of-stock, and payment failure to `examples/examples.agentic_checkout.json`.
 - Added multi-item checkout example to `examples/examples.multi_item_checkout.json`.
+- Added webhook examples for payment events (succeeded, failed, expired) to `examples/examples.delegate_payment.json`.
