@@ -56,3 +56,8 @@ If any implementation was incorrectly sending/receiving these values as quoted s
 ## Delegate Payment Error Examples
 
 - Added additional error examples for delegate payment (card declined, expired card, unauthorized) to `examples/examples.delegate_payment.json`
+
+## Recurring Payment Support (Proposal)
+
+- Extended `Allowance` schema in `schema.delegate_payment_schema.json` to support `reason: "recurring"` and `reason: "subscription"` with new fields for billing cycles, trials, and usage-based billing.
+- Added example for recurring payment delegation in `examples/examples.delegate_payment.json` (addresses Issue #12).
