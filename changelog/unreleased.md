@@ -174,7 +174,6 @@ Added presentment currency for display purposes with `presentment_currency`, `ex
 
 Added examples demonstrating additional 3DS authentication scenarios:
 
-- `checkout_session_with_three_ds_method`: Session response with 3DS method (device fingerprinting) URL encapsulated inside `authentication_metadata`
 - `authentication_result_denied_example`: Failed authentication with `outcome: "denied"`
 - `authentication_result_frictionless_example`: Frictionless flow with `outcome: "attempt_acknowledged"`
 - `complete_session_with_denied_authentication_request`: Complete request showing how to handle denied authentication
